@@ -1,0 +1,10 @@
+.sidebar{
+    padding: 25px 10px;
+    
+}
+
+@media (max-width: 1300px){
+    .sidebar{
+        display:none;
+    }
+}

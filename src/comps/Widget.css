@@ -1,0 +1,11 @@
+@media (max-width: 1300px){
+    .widget{
+        display:none;
+    }
+}
+
+@media (hover:none), (hover:on-demand) { 
+    .widget{
+        display:none;
+    }
+  }

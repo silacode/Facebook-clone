@@ -1,0 +1,18 @@
+.feed{
+
+    padding: 30px 150px;
+    display:flex;
+    flex:1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    overflow:wrap;
+}
+
+@media (max-width: 1300px){
+    .feed{
+        width:90vw;
+        padding: 5px 20px;
+    }
+}
